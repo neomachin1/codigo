@@ -1,0 +1,7 @@
+2022-01-26 20:54:33,328 [INFO] Activator:177 - 
+
+
+2022-01-26 20:54:33,330 [INFO] Activator:178 - !SESSION log4j initialized
+2022-01-26 20:54:37,527 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-01-26 20:58:13,968 [ERROR] ApiDbMcu:1567 - Can't use Application install path:
+2022-01-26 20:58:16,238 [WARN] RulesReader:59 - Compatibility file://mcu/compatibility.xml not found
